@@ -1,0 +1,10 @@
+
+Exercice2 :
+
+Construire un diagramme d’activité pour modéliser le processus de commander d’un produit. 
+Le processus concerne les acteurs suivants: 
+Client: qui commande un produit et qui paie la facture
+Caisse: qui encaisse l’argent du client
+Vente: qui s’occupe de traiter et de facturer la commande du client
+Entrepôt: qui est responsable de sortir les articles et d’expédier la commande.
+ 
